@@ -12,7 +12,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **Twitter**
+- :bird: &nbsp;Let's talk more in **[Twitter]**
 
 <br>
 
@@ -198,3 +198,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/abdourahmane-wone-b24207b1/ "Abdourahmane Wone LinkedIn"
+[twitter]: https://www.twitter.com/in/abdawone/ "Abdourahmane Wone Twitter"
