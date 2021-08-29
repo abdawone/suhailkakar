@@ -197,4 +197,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/abdawone "Abdourahmane Wone LinkedIn"
+[linkedin]: https://www.linkedin.com/in/abdourahmane-wone-b24207b1/ "Abdourahmane Wone LinkedIn"
