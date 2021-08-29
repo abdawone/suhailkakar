@@ -81,9 +81,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="48" height="48" alt="Electron" />
+        <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" width="48" height="48" alt="Electron" />
       </a>
-      <br>Electron
+      <br>Odoo
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
