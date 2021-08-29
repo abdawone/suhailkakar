@@ -1,5 +1,5 @@
 
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Abdourahmane (Abda) Wone</h1>
+<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Abda Wone</h1>
 <h3 align="left">I am a Software Developer at Ibel technology </h3>
 
 
