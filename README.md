@@ -1,13 +1,13 @@
 
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Abda Wone</h1>
-<h3 align="left">I am a Software Developer at Ibel technology </h3>
+<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Abdourahmane (Abda) Wone</h1>
+<h3 align="left">I am an Odoo developer integrator </h3>
 
 
 <a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdawone&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdawone&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Abda Wone" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Nordstone UK**
+- :office: &nbsp;I'm currently working at **Ibel technology**
 - :seedling: &nbsp;I’m currently learning **Swift**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
@@ -197,4 +197,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/suhailkakar "Suhail Kakar LinkedIn"
+[linkedin]: https://www.linkedin.com/in/abdawone "Abdourahmane Wone LinkedIn"
