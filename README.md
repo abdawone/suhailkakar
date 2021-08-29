@@ -76,7 +76,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="48" height="48" alt="Electron" />
       </a>
       <br>Electron
     </td>
