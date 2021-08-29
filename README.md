@@ -71,6 +71,12 @@
       </a>
       <br>Docker
     </td>
+     <td align="center"  width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" width="48" height="48" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -78,12 +84,6 @@
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
       <br>C Lang
-    </td>
-    <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
