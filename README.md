@@ -61,6 +61,12 @@
     </td>
     <td align="center"  width="96">
       <a href="#suhailkakar-tech">
+        <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo_inverted.svg" width="48" height="48" alt="Electron" />
+      </a>
+      <br>Odoo
+    </td>
+    <td align="center"  width="96">
+      <a href="#suhailkakar-tech">
         <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3" width="48" height="48" alt="docker" />
       </a>
       <br>Docker
@@ -78,12 +84,6 @@
         <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
       </a>
       <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Odoo
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
