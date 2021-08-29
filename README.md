@@ -61,9 +61,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3" width="48" height="48" alt="Odoo" />
+        <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3" width="48" height="48" alt="docker" />
       </a>
-      <br>Odoo
+      <br>Docker
     </td>
   </tr>
   <tr>
